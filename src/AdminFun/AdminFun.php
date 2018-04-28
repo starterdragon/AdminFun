@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 /*
  * This file is the main class of AdminFun.
@@ -15,7 +15,7 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with AdminFun. If not, see <https://github.com/georgianYT/>.
+ * along with AdminFun. If not, see <http://www.gnu.org/licenses/>.
  */
 namespace AdminFun;
 
