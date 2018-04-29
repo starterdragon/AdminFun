@@ -1,8 +1,8 @@
 
 # AdminFun
 
-## Advance Temporary Ban with UI
-## [What's new?](https://github.com/georgianYT)
+## AdminFun commands
+## [What's new?]
 
 ---
 
