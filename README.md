@@ -14,7 +14,7 @@
 ---
 
 ## COMMANDS & PERMISSIONS
-| COMMAND | DESCRIPTION | PERMISSION |
+| COMMAND | PERMISSION ||
 |---|---|---|
 | /adminfun zap | adminfun.command.zap |
 | /adminfun slap | adminfun.command.slap |
