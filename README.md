@@ -3,7 +3,7 @@
 
 ## AdminFun commands
 ## [What's new?]
-
+[![Download](https://img.shields.io/github/downloads/AdminFun/georgianYT/total.svg?label=Download)]
 ---
 
 ## HOW TO INSTALL
